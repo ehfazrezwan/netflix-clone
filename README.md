@@ -41,7 +41,7 @@
     <a href="https://github.com/ehfazrezwan/netflix-clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://netflix-clone-38cce.web.app/">View Demo</a>
+    <a href="https://netflix-clone-38cce.web.app/" target = "_blank">View Demo</a>
     ·
     <a href="https://github.com/ehfazrezwan/netflix-clone/issues">Report Bug</a>
     ·
