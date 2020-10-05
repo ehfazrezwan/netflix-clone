@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, mern-messenger-clone-backend, twitter_handle, email
+*** github_username, netflix-clone, twitter_handle, email
 -->
 
 <!-- PROJECT SHIELDS -->
@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ehfazrezwan/mern-messenger-clone-backend">
+  <a href="https://github.com/ehfazrezwan/netflix-clone">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     Full stack clone project of the Facebook Messenger web app. The frontend is a cloned copy of https://github.com/drakosi99/messenger-mern-starter-project - a REACT.js app, whereas the backend is a custom implementation by yours truly. Using MERN as the tech stack here.
     <br />
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-backend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ehfazrezwan/netflix-clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-backend">View Demo</a>
+    <a href="https://github.com/ehfazrezwan/netflix-clone">View Demo</a>
     ·
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-backend/issues">Report Bug</a>
+    <a href="https://github.com/ehfazrezwan/netflix-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ehfazrezwan/mern-messenger-clone-backend/issues">Request Feature</a>
+    <a href="https://github.com/ehfazrezwan/netflix-clone/issues">Request Feature</a>
   </p>
 </p>
 
@@ -92,13 +92,13 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/ehfazrezwan/mern-messenger-clone-backend.git
+git clone https://github.com/ehfazrezwan/netflix-clone.git
 ```
 
 2. Go into project directory
 
 ```sh
-cd mern-messenger-clone-backend
+cd netflix-clone
 ```
 
 3. Install node dependencies
@@ -115,7 +115,7 @@ npm install
 
 ## Roadmap
 
-See the [open issues](https://github.com/ehfazrezwan/mern-messenger-clone-backend/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ehfazrezwan/netflix-clone/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ehfaz Rezwan - [@ehfazrezwan](https://www.linkedin.com/in/ehfaz-rezwan/) - ehfaz.rezwan@gmail.com
 
-Project Link: [https://github.com/ehfazrezwan/mern-messenger-clone-backend](https://github.com/ehfazrezwan/mern-messenger-clone-backend)
+Project Link: [https://github.com/ehfazrezwan/netflix-clone](https://github.com/ehfazrezwan/netflix-clone)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -152,16 +152,16 @@ Project Link: [https://github.com/ehfazrezwan/mern-messenger-clone-backend](http
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ehfazrezwan/mern-messenger-clone-backend
-[contributors-url]: https://github.com/ehfazrezwan/mern-messenger-clone-backend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ehfazrezwan/mern-messenger-clone-backend
-[forks-url]: https://github.com/ehfazrezwan/mern-messenger-clone-backend/network/members
-[stars-shield]: https://img.shields.io/github/stars/ehfazrezwan/mern-messenger-clone-backend
-[stars-url]: https://github.com/ehfazrezwan/mern-messenger-clone-backend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ehfazrezwan/mern-messenger-clone-backend
-[issues-url]: https://github.com/ehfazrezwan/mern-messenger-clone-backend/issues
-[license-shield]: https://img.shields.io/github/license/ehfazrezwan/mern-messenger-clone-backend
-[license-url]: https://github.com/ehfazrezwan/mern-messenger-clone-backend/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ehfazrezwan/netflix-clone
+[contributors-url]: https://github.com/ehfazrezwan/netflix-clone/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ehfazrezwan/netflix-clone
+[forks-url]: https://github.com/ehfazrezwan/netflix-clone/network/members
+[stars-shield]: https://img.shields.io/github/stars/ehfazrezwan/netflix-clone
+[stars-url]: https://github.com/ehfazrezwan/netflix-clone/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ehfazrezwan/netflix-clone
+[issues-url]: https://github.com/ehfazrezwan/netflix-clone/issues
+[license-shield]: https://img.shields.io/github/license/ehfazrezwan/netflix-clone
+[license-url]: https://github.com/ehfazrezwan/netflix-clone/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ehfazrezwan
 [product-screenshot]: images/app.png
