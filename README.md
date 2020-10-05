@@ -70,7 +70,7 @@
 
 [![Product Name Screen Shot][product-screenshot]]()
 
-Netflix clone built using ReactJS. Makes use of React Hooks, CSS Flexbox, and the [TMDB API](https://www.themoviedb.org/documentation/api)
+Netflix clone built using ReactJS. Makes use of React Hooks, CSS Flexbox, and the [TMDB API](https://www.themoviedb.org/documentation/api). The movie listings are programmed to display corresponding YouTube trailers.
 
 ### Built With
 
